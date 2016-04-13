@@ -23,3 +23,4 @@ To make the test run:
 
 ## How do you measure which algorithm is most efficient?
 In order to determine which algorithm is most efficient I will look at the line coverage count. The lowest count wins.
+Beware, I will do an auto-indent over the code before doing the coverage measurement.
