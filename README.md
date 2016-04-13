@@ -1,4 +1,4 @@
-# Friday quiz dat sort algorithm
+# Friday quiz day sort algorithm
 
 ## What is this?
 This project contains an empty function and a spec file. Your goal is to make the unit test pass.
