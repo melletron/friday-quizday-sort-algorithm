@@ -21,5 +21,7 @@ To make the test run:
 * and/or run the test from the command line (this will also create a coverage report)
 ```grunt```
 
+
+
 ## How do you measure which algorithm is most efficient?
 In order to determine which algorithm is most efficient I will look at the line coverage count. The lowest count wins.
