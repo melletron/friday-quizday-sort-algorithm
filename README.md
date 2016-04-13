@@ -15,13 +15,11 @@ To make the test run:
 * make sure you have Grunt installed.
 ```npm install -g grunt```
 * install all the dependencies
-```npm instsall```
+```npm install```
 * create a specrunner
 ```grunt jasmine:nocover:build```
 * and/or run the test from the command line (this will also create a coverage report)
-```grunt```
-
-
+```grunt ```
 
 ## How do you measure which algorithm is most efficient?
 In order to determine which algorithm is most efficient I will look at the line coverage count. The lowest count wins.
